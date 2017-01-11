@@ -59,6 +59,10 @@
     width: 100%;
 }
 
+html {
+    background-color: black;
+}
+
 
   
 
@@ -70,6 +74,6 @@
 
 body{
     font-family: 'Lato', sans-serif;
-    color:#747704;
+    color: #5da3d7;
     font-weight: 300;
 }
